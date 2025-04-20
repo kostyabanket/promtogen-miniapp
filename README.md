@@ -1,1 +1,0 @@
-# promtogen-miniapp
